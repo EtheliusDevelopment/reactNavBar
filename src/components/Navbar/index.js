@@ -6,7 +6,7 @@ const Navbar = () => {
         <>
             <Nav>
                 <NavLink to="/">
-                    <h1>Logo</h1>
+                    <img src="https://i0.wp.com/hipertextual.com/wp-content/uploads/2021/02/mortal-kombat-logo.jpg?fit=1936%2C1254&ssl=1" alt="" width="120px" height="80px"/>
                 </NavLink>
                 < Bars />
                 <NavMenu>
